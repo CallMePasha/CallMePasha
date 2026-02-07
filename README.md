@@ -1,6 +1,7 @@
 <h1>Hi, I'm Pasha</h1>
 
-<h2>BI Engineer | Python Developer at HONOR</h2>
+## **BI Engineer & Python Dev @ HONOR **  
+## **MSc CS Student @ HSE | Big Data Analytics**
 
 <h3>My Tech Stack</h3>
 
