@@ -8,8 +8,6 @@
 <div align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin-right: 10px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40" style="margin-right: 10px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40" style="margin-right: 10px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40">
 </div>
 
 <h4>Data Visualization</h4>
@@ -26,8 +24,8 @@
 
 <h3>Currently Learning</h3>
 - Machine Learning<br>
-- Data Engineering (ETL processes, data pipelines)<br>
-- Advanced Analytics (statistical analysis, business intelligence)<br>
+- Data Engineering<br>
+- Advanced Analytics<br>
 - Data Science fundamentals at HSE
 
 <h3>Contact</h3>
