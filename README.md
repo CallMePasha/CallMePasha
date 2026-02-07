@@ -28,6 +28,8 @@
 - Advanced Analytics<br>
 - Data Science fundamentals at HSE
 
-<a href="https://t.me/ameyoukai" target="_blank" rel="noopener noreferrer">
+### Contact
+
+<a href="https://t.me/ameyoukai" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
 </a>
