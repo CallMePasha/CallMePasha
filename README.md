@@ -3,25 +3,15 @@
 **BI Engineer & Python Developer** @ HONOR  
 **MSc in Computer Science** (Big Data Analytics) @ HSE
 
-<h3>My Tech Stack</h3>
+### My Tech Stack
 
-<h4>Programming & Data Analysis</h4>
-<div align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin-right: 10px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40" style="margin-right: 10px;">
-</div>
-
-<h4>Databases & SQL</h4>
-<div align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" style="margin-right: 10px;">
-  <img src="https://www.sqlalchemy.org/img/sqla_logo.png" alt="SQLAlchemy" width="40" height="40">
-</div>
-
-<h4>Data Visualization</h4>
-<div align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40" style="margin-right: 10px;">
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40" style="background:#ffffff; padding:5px; border-radius:5px; margin-right: 10px;">
-</div>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 <h3>Currently Learning</h3>
 - Machine Learning<br>
