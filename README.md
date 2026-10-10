@@ -21,6 +21,6 @@
 
 ### Contact
 
-<a href="https://t.me/ameyoukai" target="_blank">
+<a href="https://t.me/paul_404" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
 </a>
